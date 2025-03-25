@@ -16,4 +16,4 @@ git _version
 
 ![seeimage](https://github.com/user-attachments/assets/ec02b05d-8b10-4947-8dd1-57e1ed38331e)
 
-file:///home/student/Pictures/Screenshots/see%20115.png
+
